@@ -6,4 +6,4 @@ A web application that allows users to create an account, weekly meal plan recor
 ![Screen Shot 2023-09-05 at 12 05 31 PM](https://github.com/tonizeng/MealPlanBuddy/assets/121732482/632668df-beee-44da-bc79-bf5447b6dd6a)
 ![Screen Shot 2023-09-05 at 12 05 53 PM](https://github.com/tonizeng/MealPlanBuddy/assets/121732482/8fceeae6-2d6c-4132-b192-03e1013faeed)
 
-
+Demo: https://www.youtube.com/watch?v=LrqXZiPIIFE
